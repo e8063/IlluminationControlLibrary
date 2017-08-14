@@ -1,0 +1,14 @@
+IlluminationControl	KEYWORD1
+setAddress	KEYWORD2
+setPattern	KEYWORD2
+SendCommand	KEYWORD2
+SendCommandString	KEYWORD2
+getData	KEYWORD2
+loopEnd	KEYWORD2
+Wait	KEYWORD2
+setChangeXBee	KEYWORD2
+setChangeFunction	KEYWORD2
+setDefault	KEYWORD2
+terminalSetup	KEYWORD2
+SSR_7	KEYWORD2
+SSR_8	KEYWORD2
